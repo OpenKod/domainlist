@@ -92,7 +92,6 @@
 110sport.com
 110sport.net
 112tv.nl
-113.192.9.40
 1160wccs.com
 11alive.com
 11channel.dp.ua
@@ -110,7 +109,6 @@
 123telugu.com
 12403wc.com
 1240knss.com
-12.43.12.120
 1250wapz.com
 1280thezone.com
 1290whio.com
@@ -120,7 +118,6 @@
 1318class.com
 1320am.com
 1320kfan.com
-134.176.128.63
 1350.jp
 13emerue.fr
 13fm.com
@@ -149,7 +146,6 @@
 18holes.ca
 190north.com
 1947project.blogspot.com
-195.54.103.118
 1984-online.com
 1-apple.com.tw
 1autochovil.fiestras.com
@@ -173,7 +169,6 @@
 2002.ksl.com
 2002world.com
 2020studios.com
-207.230.156.205
 20ansmadame.com
 20min.ch
 20minutes.ch
@@ -181,8 +176,6 @@
 20minutos.es
 20yearsofpj.com
 21126888.com
-216.87.159.52
-218.22.17.82
 21echina.com
 21minuten.nl
 21stcenturyadventures.com
@@ -384,11 +377,9 @@
 620ktar.com
 620wdae.com
 620wtmj.com
-62.5.183.114
 630cfco.com
 630ched.com
 63xc.com
-64.27.81.70
 6522.forum.onetwomax.de
 670thescore.com
 6711.com
@@ -438,8 +429,6 @@
 7taranaki.co.nz
 7thgear.com
 7th-heaven.net
-80.32.82.182
-80.76.55.15
 808golf.com
 813fm.net
 82games.com
@@ -452,7 +441,6 @@
 88fm.com.au
 88fm.iba.org.il
 89.0rtl.de
-89.108.92.69
 897sunfm.com
 89xradio.com
 8days.sh

@@ -47,7 +47,6 @@
 1wayfm.com.au
 1xx.co.nz
 2000fm.com
-212.79.240.174
 24.tv
 2aaa.net
 2bfm.be
@@ -123,7 +122,6 @@
 7waves.co.uk
 875.gr
 877.gr
-87.98.215.54
 883jia.com.sg
 88punto1fm.com
 89.0rtl.de
