@@ -1047,6 +1047,7 @@ track.shop2market.com
 track.social.com
 track.spankadoo.pl
 track.talarsystems.com
+track.thecrypto-genius.net
 track.trkgd.com
 track.uclicknow.com
 track.us.org
